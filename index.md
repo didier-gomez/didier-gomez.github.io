@@ -11,10 +11,10 @@
 
 ### Plugins visual studio
 
-#### Altamente recomendables
+  > #### Altamente recomendables
   > * [ES6 code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
-#### Opcionales pero recomendados
+  > #### Opcionales pero recomendados
   > * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   > * [Bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
   > * [Material icon theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
