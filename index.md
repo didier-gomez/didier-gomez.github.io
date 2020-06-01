@@ -1,4 +1,4 @@
-<img src="https://github.com/didier-gomez/didier-gomez.github.io/img/node.js_logo.svg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+<img src="https://github.com/didier-gomez/didier-gomez.github.io/blob/master/img/node.js_logo.svg" style="display: block;margin-left: auto;margin-right:auto;width: 50%;">
 # Curso Node JS - Instructor: [Didier Gomez](mailto:didier.gomezlemus@gmail.com)
 
 ## Descargas - Sección 1 del curso
