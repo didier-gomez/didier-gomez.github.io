@@ -1,4 +1,4 @@
-![Node logo](/img/node.js_logo.svg)
+<img src="https://github.com/didier-gomez/didier-gomez.github.io/img/node.js_logo.svg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 # Curso Node JS - Instructor: [Didier Gomez](mailto:didier.gomezlemus@gmail.com)
 
 ## Descargas - Sección 1 del curso
@@ -16,5 +16,6 @@
 * [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 
 ## Descargas - Sección 2 del curso - WebServer/REST server
+* [Postman](https://www.postman.com/downloads)
 * [mongoDB community](https://www.mongodb.com/download-center/community)
 * [Robo3T](https://robomongo.org/download)
